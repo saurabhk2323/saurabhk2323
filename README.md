@@ -41,7 +41,7 @@ A real-time stock dashboard project leveraging cutting-edge technologies.
 
 ## 🎉 Fun Facts
 
-- 💬 Love meeting and mingling with new people
+- 💬 Love meeting and mingling with people
 - 🏏 Cricket watching freak—let's talk cricket anytime!
 
 ---
