@@ -15,6 +15,15 @@ I'm a passionate Senior Software Engineer who thrives on solving complex problem
 
 ---
 
+## 🎓 Certifications
+- Microsoft Certified: Azure AI Engineer Associate  
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Fundamentals  
+- 5+ more Microsoft/Azure/Cloud certifications...
+
+---
+  
 ## 💼 Featured Project
 
 ### [Stock-Live_Dashboard](#)
