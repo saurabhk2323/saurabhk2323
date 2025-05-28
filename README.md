@@ -28,7 +28,7 @@ I'm a passionate Senior Software Engineer who thrives on solving complex problem
 
 ### [Stock-Live_Dashboard](#)
 A real-time stock dashboard project leveraging cutting-edge technologies.  
-*Stay tuned for live updates and insights!*
+https://github.com/saurabhk2323/stock-live-dashboard
 
 ---
 
